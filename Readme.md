@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Device.cs](./CS/App_Code/Device.cs) (VB: [Device.vb](./VB/App_Code/Device.vb))
+* [Desktop.aspx](./CS/Desktop.aspx) (VB: [Desktop.aspx.vb](./VB/Desktop.aspx.vb))
+* [Desktop.aspx.cs](./CS/Desktop.aspx.cs) (VB: [Desktop.aspx.vb](./VB/Desktop.aspx.vb))
+* [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
+* [Mobile.aspx](./CS/Mobile.aspx) (VB: [Mobile.aspx.vb](./VB/Mobile.aspx.vb))
+* [Mobile.aspx.cs](./CS/Mobile.aspx.cs) (VB: [Mobile.aspx.vb](./VB/Mobile.aspx.vb))
+<!-- default file list end -->
 # How to redirect a user to a mobile version of a site based on the user's device type
 
 
