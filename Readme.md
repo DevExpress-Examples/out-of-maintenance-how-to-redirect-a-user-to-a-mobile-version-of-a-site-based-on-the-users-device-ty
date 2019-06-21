@@ -9,6 +9,9 @@
 * [Mobile.aspx.cs](./CS/Mobile.aspx.cs) (VB: [Mobile.aspx.vb](./VB/Mobile.aspx.vb))
 <!-- default file list end -->
 # How to redirect a user to a mobile version of a site based on the user's device type
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t226980/)**
+<!-- run online end -->
 
 
 <p>In this example, you will see how to redirect a user to a mobile or desktop version of a site. To determine the device type, you can use the <em>RenderUtils.Browser.Platform</em> property. To encapsulate the process of determining the device type, create a <em>Device</em> class with static fields that will represent the device type, for example, <em>isPhone</em>, <em>isTablet</em> and <em>isDesktop</em>. Please note that in the <em>BrowserPlatform</em> class there is no difference between tablets and phones, so for most complex scenarios you might want to parse a user agent and make a custom determination mechanism.</p>
